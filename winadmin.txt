@@ -1,0 +1,332 @@
+Feature update to Windows 10, version 1803 - Error 0x80242006
+e-com express -->8143437576
+
+Contact Murali (HR) to schedule your interview - 9176271118 (Whats app me or Call me only between 11.00 AM and 7.00 PM to schedule your interview)
+
+
+gmail user id1:srivihag@gmail.com
+seenumadhav155
+
+id2 :smadhav2155@gmail.com
+vihaan155
+
+naukri login(citrix):srivihag@gmail.com
+pwd:vihaan155
+
+
+HIII
+
+GREETINGS FROM PAYTON TECHNO SOFT
+
+HERE ARE DELIVERY EXECUTIVE JOBS IN AMAZON 
+
+SALARY : 15K + INCENTIVES
+
+2 WEEK OFFS 
+
+ONLY 5 WORKING DAYS
+
+
+WALKIN @ PAYTON TECHNO SOFT
+
+CALL: 7730882337 @ MANISHA
+
+ATTEND INTERVIEW AT BELOW GIVEN ADDRESS:
+
+Address :
+
+TOPAZ BUILDING, 
+5TH FLOOR,
+PLOT 514, 
+PANJAGUTTA CIRCLE, 
+BESIDE TANISHQ JEWELLERS, HYD.
+
+CALL 7730882337
+
+NOTE : YOUR REFERENCE NAME IS: MANISHA
+Company Profile
+Contact Person : Manisha Mani 
+Company Name : PAYTON TECHNO SOFT 
+Company Address : Address: @@ PAYTON SOLUTIONS @@ TOPAZ BUILDING, 5TH FLOOR, PLOT 514, PANJAGUTTA CIRCLE, BESIDE TANISHQ JEWELLERS, HYD.
+
+
+linux with devops roles-->
+nstallation of servers (Red Hat) using Puppet and RPM Framework
+• Monitoring of environments (MicroFocus OMI)
+• Implementation and follow-up of backups (Veritas NetBackup)
+• Security management (AD-integration, Sophos Antivirus, ...)
+• Development of automations using Python and Bash scripts
+• Initiating, defining, realizing and implementing numerous own projects.
+• A number of examples from recent years and near future
+•	Optimizing ILM processes for delivery of Linux Servers
+•	Introduction Red Hat 7.x
+•	In place upgrade Red Hat minor release (6.9 to 6.10 / 7.3 to 7.5)
+•	Introduction Red Hat Clustered FileServers
+For the delivery of linux servers, you work closely with other system engineers (databases, application servers, networks ...)
+linux roles
+
+	Adding, creating new users, groups and setup home directories and appropriate.
+	Administration and configuration of NFS, Samba servers.
+	Good understanding of file system and storage management concepts like LVM. And working on patching activities.
+	Providing Technical supports for internal users and resolved trouble shooting tickets.
+	Configuring and managing user& group accounts.
+	Managed Disks and File systems using LVM on Linux.
+	Installing/updating of software packages using YUM and RPM.
+	Providing SUDO access to the users and groups.
+	Troubleshooting of day-to- day issues such as logging in, network, disk space and Permission issues.
+	Backup and Recovery using Tools like Tar and Gzip.
+	Disk Storage Management in Linux - Logical and Physical Volume management, configuring disks, working with disk groups, logical volumes, and physical volumes.
+	Configuring File sharing services like, SAMBA and FTP.
+	Remote System Administration using tools like SSH and Telnet.
+	Experience on managing the User and Group Administration of creating, modifying and Deleting users and groups and providing the security on user accounts and group accounts.
+	Installation, Configuration and Administration of various versions of Red hat Linux.
+	System Administration of Linux Servers Red Hat, Ubuntu server, 
+	Installation, Configuration and Maintenance of VMware ESX 4.0, 5.1 and Virtual Machines.
+	Creating volumes and managing file system using Logical Volume Manager (LVM).
+
+ip security roles
+Role Summary / Purpose :
+
+The Information Security Analyst will be responsible for planning and implementing security measures to protect computer systems, networks and data.
+
+The person in this position is responsible for a broad range of multi-tasking, including the day-to-day management of information security tools and devices, project implementation of security initiatives, and will include significant responsibilities for the security administration of a wide variety of IT systems across the enterprise.
+
+The individual in this position interacts closely with associates from various IT teams including the application development, infrastructure, and business intelligence teams and with many other business areas throughout the organization.
+
+This position is also responsible for access controls, security incident detection and response, security control documentation, and reporting
+
+Essential Responsibilities :
+
+Serve as the subject matter expert (SME) for technical security : solutions, controls and architecture
+Provide day-to-day administration and technical support for IT security systems
+Provide technical security administrative duties for infrastructure related to firewalls, encryption, intrusion detection systems, vulnerability scanning, security monitoring tools, authentication, web filtering, identity management, access control systems, and their associated logs and processes
+Provision and audit access controls on information systems containing sensitive data
+Some IT audit functions such as folder permission requests and proper Active Directory (AD) account use
+Monitor system logs, tools and network traffic for unusual or suspicious activity. Interpret such activity and make recommendations for resolution
+Perform risk and vulnerability assessments, followed by appropriate remedial action, to mitigate risk and ensure that systems are protected from known and potential threats and are free from known vulnerabilities
+Contribute to IT risk identification, classification and response processes
+Contribute to the enterprise risk management process as needed
+Perform technical security project implementations and meet project deadlines
+Actively contribute to inter-departmental and cross-functional teams for the protection of information assets
+Research and stay up-to-date on current security threats and vulnerabilities to relevant information systems
+Provide support for the preparation and execution of InfoSec audits
+Provide support and direction for improving InfoSec policies, processes, and standards
+Qualifications / Requirements :
+
+Bachelor�s degree and 3+ years of Information Security experience
+2 or more years with Secure coding practices / System Integration / System Administration / Network Administration / TCP / IP protocols / Intrusion Detection / Prevention / Security Incident handling / Security Information and Event Management (SIEM) / Vulnerability Management / Security Assessments
+Experience reviewing information and articulating solutions in a fast growing and dynamic environment
+Shift Timings : Candidate must be flexible working in shifts, Preffered shift timings 5 : 30 pm 2 : 30 am IST
+For Internal Candidates : Understand the criteria or mandatory skills required for the role, before applying.
+Inform your Manager or HRM before applying for any role on Workday.
+Ensure that your Professional Profile is updated (fields such as Education, Prior experience, Other skills) and it is mandatory to upload your updated resume (Word or PDF format)
+Must not be any corrective action plan (First Formal / Final Formal, PIP)
+Employees who have completed 18 months in SYF and 12 months in current role are only eligible.
+Last annual performance rating should at least be Strong Contributor / Critical talent.
+Desired Characteristics :
+
+Displays passion and responsibility to the customer either internal or external
+Good understanding of IS security controls, monitoring systems and business drivers that impact security policy and practice
+Knowledge of IS security principles and best practices
+Ability to work well with others in a collaborative and dynamic environment with an expectation to assist in all InfoSec areas as needed Qualys, Splunk, CyberArk, or other security tool knowledge a plus Strong organizational and analytical skills
+Excellent multi-tasking abilities
+Excellent communication and writing skills
+Excellent interpersonal skills
+Persuasion and negotiation skills
+Must be flexible and able
+to work in a team environment
+
+
+
+
+fibreoptics
+
+1. Fiber Optic Link 
+
+Fibre optics and  its working principle
+Advantages/application
+Optical power and Loss measurement
+Optical wavelength/ Windows/Bands
+Attenuation/Dispersion
+Dispersion Vs Bandwidth
+BW of optical communication
+2. Optical sources (Transmitters  and Detectors)
+
+Semiconductor Light Sources
+LED/Laser  Sources and Safety Handling Precautions
+Coupling of source to fiber
+Optical detectors PIN and APD
+Receiver noise
+Receiver block diagram
+3. Fiber Optics Cable construction and its features
+
+Parts of OF cable
+Core/Cladding/Coating
+Filler/buffer/tensile Strength/jacket
+Types of fibers ITU T G652, G654, G655 ,G-657
+Construction of 12/24/48/96 F cable
+Pig tail, patch cord
+Ribbon/Submarine Cable/armored/unarmored cable
+Cable Termination Methods
+Bend Radius Specifications
+4. Connectors and couplers
+eswarinid255@gmail.com
+eswari255
+
+Types of Fiber Optic Connectors
+Single-Fiber Connectors
+Connector Termination, FDF etc
+Attenuators
+5. Splicing and termination
+
+Splicing Equipment
+Different types of splicing
+Fusion Splicers/Splice Requirements
+Splicing Procedures
+Cable preparation
+Fusion Splicing/Pigtail splicing/ribbon cable splicing (demo)
+6. Planning of OF cable route and  pipe/Cable Laying  procedure
+
+Planning and surveying  aspects of  OF cable route
+Planning of  Long distance /Metro Optical network
+Laying procedure and protection
+Laying Specifications /Minimum Bend Radius
+Pulling Eye/Pull box
+Splice Straight/Branch  Enclosures
+Installation Methods
+Duct /Direct Burial /Aerial
+Documentation OF Cable diagram /OFFSET diagram
+ 7. Test Equipment and Link/Cable Testing  
+
+Continuity Test using Light Source and Optical Power Meter
+OTDR setup/Display /Testing and Trace Analysis
+Documentation
+OTDR Fault Localization Techniques
+Restoration Practices
+8 . Optical communication Systems
+
+Multiplexing/FDM/TDM/WDM and its advantages & limitation
+PCM/PDH                                        
+DTA (G 821 analysis) and alarm monitoring      
+8 MBps/34 Mbps/140 Mbps Familiarisation                         
+Power/dynamic range measurements
+Setting up the 8/34 Mbps link over patch cord with attenuator and testing
+Hands on practical
+09. Link Engineering for an Optical system
+
+Power budgeting
+Rise time budgeting
+ITU specification
+Receiver sensitivity
+G.957 spec for STM-1
+10. SDH  
+
+SDH and its advantages
+Mapping and multiplexing
+SDH network devices and its function/Protection
+Point to point linking of 2/34 Mbps
+Ring formation STM-1
+Hands on practical
+11. NG-SDH/MADM
+
+NG-SDH advantages and its features
+Connectivity/configuration
+Features  of  NG-SDH  like MADM/RPR/PSPP/MSSP
+Hands on practical  on MADM-16 
+12. DWDM
+
+WDM and its advantages
+Types of  WDM
+Window in DWDM
+DWDM network components and its function
+Features  of  WDM
+Field visit
+13.  Fibre Access network
+
+Introduction to FTTH and its advantages
+FTTH components and  its function
+FTTH architecture
+Type of  PON
+G PON and GE PON
+Hands on practical  on GEPON
+14.  New Trends in fiber communication
+
+OTN
+IP over WDM
+IP over NG SDH/RPR/MSPP/MSSP
+Submarine cabling
+Free Space Optics
+17. Safety and precautions
+
+Basic Safety
+Handling Fiber
+Site /Maintenance personnel safety
+Earthing /Trenching 
+COURSE LAYOUT
+
+1    Introduction Communication Theory and the importance of Optical Fiber Communication: Amplitude modulation, Phase and Frequency Modulation, Pulse modulation, Bandwidth, Information Carrying Capacity, Evolution of Communication and need to switch to optical domain
+
+2    Ray analysis of optical fiber: Propagation mechanism of rays in an optical fiber, Meridional rays, Skew rays, Fiber numerical aperture, dispersion, concept of modes.
+
+3    Electromagnetic (modal) analysis of Step-index multimode fibers: Wave equation and boundary conditions, Characteristics equation, TE, TH and Hybrid modes, Weakly guiding approximation, linearly polarized modes, Single mode fiber, V parameter, Power confinement and mode cutoff,     Mode field diameter.
+
+4    Graded-index fiber: Modal analysis of graded index fiber, Optimum profile, Single mode-operation.
+
+5    Loss mechanism in optical fiber: Absorption loss, scattering loss, bending loss, splice loss
+
+6    Experimental techniques in fiber optics: Fiber fabrication (OVD, VAD, MCVD). Fiber cabling.
+
+7    Pulse propagation, Dispersion and chirping in single-mode fibers: Pulse propagation in non-dispersive and dispersive medium, Pulse broadening and chirping, Group and phase velocity, Intermodal and intramodal dispersion, Group velocity (material and waveguide) dispersion, Higher order dispersion, Polarization mode dispersion, Fiber bandwidth.
+
+8    Fiber based devices: Erbium-doped fiber amplifiers and lasers, Fiber Bragg gratings, Chirped Fiber Bragg Grating.
+
+9    Dispersion compensation mechanism: Dispersion-tailored and dispersion compensating fibers, Dispersion compensation using Chirped Fiber Bragg Grating.
+
+10    Nonlinear effects in optical fiber: Self Phase Modulation, Cross Phase Modulation, Four-wave mixing, Introduction to Optical Soliton.
+
+
+REFERENCE BOOKS
+fibreoptics
+1.    A. K. Ghatak & K. Thyagarajan, Introduction to Fiber Optics, Cambridge University Press (1998).
+2.    G. P. Agarwal, Fiber Optic Communication Systems, John Wiley Sons (1997).
+3.    John A Buck, Fundamentals of Optical Fibers, Wiley Interscience, (2004).
+4.    J. M. Senior, Optical Fiber Communication, Prentice Hall (1999).
+5.    G. Keiser, Optical Fiber Communications, McGraw Hill (2000).
+6.    K. Okamoto, Fundamentals of Optical Waveguides, Academic Press, (2000).
+
+
+true suit service
+26700154-chamrajjpet -->
+080-33004444--->>
+
+
+
+
+JD for Windows System Administrator
+
+An experienced Windows administrator having worked on various windows platforms such as Windows Server 2012 and Windows Server 2008.
+
+Should have solid Administration knowledge and troubleshooting experience on windows based operating system. The role involves setup, configuration, administration and management of production & testing environments.
+
+Day-to-day activities will include troubleshooting issues, installing software, implementation of change requests, basic AD tasks & configuration changes.
+
+Good Experiance of Microsoft Windows Server OS (Windows 2012 and Windows 2008) installation, upgrades & patches
+Good experiance on VMWare 6.0 administration
+In Depth knowledge on Active Directory Infrastructure Sites, Handling Replications, Cross domain Trusts.
+Experience in Installation and Configuration of Active Directory server, Group Policies, User and Group Management.
+Good knowledge on IIS setup and configuration.
+OS security hardening
+Good Knowledge on Windows clustering
+SSD Backup setup and configuration.
+Antivirus & Patch management.
+Working knowledge of TCP / IP, SMTP, DHCP and DNS server Management concepts.
+HP ILO and other Remote Console tool management.
+Working experience on any monitoring tool
+Good knowledge and exposure on Manage Engine ( OP Manager and Service Desk + )
+Must be on 24 / 7 support with rotational shift system
+Incident, Problem and Change Management on a RIM environment and familiar with data centre operations
+Conceptual knowledge of Business continuity and DR planning
+Should be familiar with basic and advanced system administration commands, tools and processes
+Responsible for testing and deployment of changes into the infrastructure
+Responsible for documenting all changes to the system environment
+Should be able to extend the support for L1 monitoring team if there is any demand
